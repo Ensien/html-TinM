@@ -1,0 +1,7 @@
+.gradient-background {
+    background: rgb(146,63,251);
+    background: radial-gradient(circle, rgba(146,63,251,1) 0%, rgba(252,70,240,1) 100%);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    
+}
